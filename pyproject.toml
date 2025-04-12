@@ -7,4 +7,6 @@ authors = [
     { name = "e-hossam96", email = "ehh.hossam@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "python-dotenv>=1.1.0",
+]
