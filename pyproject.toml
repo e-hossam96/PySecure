@@ -1,0 +1,10 @@
+[project]
+name = "pysecure"
+version = "0.1.0"
+description = "Packages Vulnerability Check for Python using OSS Index Public API from Sona Type."
+readme = "README.md"
+authors = [
+    { name = "e-hossam96", email = "ehh.hossam@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
